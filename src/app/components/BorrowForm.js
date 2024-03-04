@@ -13,7 +13,7 @@ export default function BorrowForm() {
       uintCV(amount), // Convert the amount to uintCV
     ];
 
-    const contractAddress = "ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM"; // Replace with your contract address
+    const contractAddress = "SP2JQHPC0FA97CWH0HPD4FTEPP6NV8AEP5NQCVHBR"; // Replace with your contract address
     const contractName = "lagoon"; // Replace with your contract name
     const functionName = "borrow"; // Function for deposit
 
